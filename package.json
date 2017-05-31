@@ -1,0 +1,14 @@
+{
+  "name": "ec2-lambda-backup",
+  "version": "1.0.0",
+  "description": "make ec2 ebs snapshot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandan chauhan",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.59.0"
+  }
+}
